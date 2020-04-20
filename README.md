@@ -5,6 +5,7 @@ This Package contains a batch class which updates the account records.
 use the below syntax to run the Batch class
 
 updateAccountStatus accountBatch = new updateAccountStatus('customer');
+
 Database.executeBatch(accountBatch); 
 
 'customer' is a record type name
