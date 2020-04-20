@@ -2,7 +2,7 @@
 
 This Package contains a batch class which updates the account records.
 
-use the below syntax to run the Batch class
+use the below syntax in developer console to run the Batch class
 
 updateAccountStatus accountBatch = new updateAccountStatus('customer');
 
